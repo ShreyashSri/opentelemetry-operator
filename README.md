@@ -906,3 +906,5 @@ Thanks to all the people who already contributed!
 [godoc]: https://godoc.org/github.com/open-telemetry/opentelemetry-operator/pkg/apis/opentelemetry/v1alpha1#OpenTelemetryCollector
 [contributors]: https://github.com/open-telemetry/opentelemetry-operator/graphs/contributors
 [contributors-img]: https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-operator
+
+## testing changes
